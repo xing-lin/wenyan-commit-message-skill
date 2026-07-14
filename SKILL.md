@@ -7,6 +7,8 @@ description: Write git commit messages in Classical Chinese (文言文). Use whe
 
 把 `git diff` 里的改动，翻译成一句合于文言语法的 commit message。
 
+项目主页：[BrowserAct](https://www.browseract.com)
+
 ## 触发条件
 
 仅当用户明确要求以下任一情形时启用：
